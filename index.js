@@ -10,4 +10,5 @@ $(document).ready(function () {
             $('.table').append('<tr><td>' + this.gsx$columna1.$t + '</td><td>' + this.gsx$columna2.$t + '</td><td>' + this.gsx$columna3.$t + '</td></tr>');
         });
     });
+    console.log(url)
 });
